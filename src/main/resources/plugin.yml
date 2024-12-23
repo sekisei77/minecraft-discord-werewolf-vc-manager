@@ -1,0 +1,8 @@
+name: jinro-vc
+version: '1.0.0'
+main: com.sekisei77.jinroVc.JinroVc
+api-version: '1.18'
+
+commands:
+  register:
+  vc_return:
